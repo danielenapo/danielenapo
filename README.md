@@ -3,7 +3,7 @@ My name is Daniele Napolitano, and currently I'm studying computer engineering a
 
 ###  Contacts 📨
 * personal email: danielenapolitano00@gmail.com
-* my portfolio [website](danielenapo.github.io)
+* my portfolio [website](http://danielenapo.github.io/)
 
 ###  What I'm currently working on 🔭
 I'm developing my thesis project for my bachelor degree in Computer Engineering. 
