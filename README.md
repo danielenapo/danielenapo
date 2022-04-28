@@ -7,8 +7,13 @@ My name is Daniele Napolitano, and currently I'm studying computer engineering a
 
 ###  What I'm currently working on 🔭
 I'm developing my thesis project for my bachelor degree in Computer Engineering. 
-It's still work in progress, but you can look at [this repository](https://github.com/danielenapo/tesi).
-The project is about Augmented reality and IoT (CoAP protocol), so there are some similar minor projects I've worked on to learn the basics.
+It's still work in progress, it's about Augmented reality and IoT (using the CoAP protocol), so there are other smaller repos on similar subjects that I've made to learn the basics.
+
+<p align="center">
+<a href="https://github.com/danielenapo/tesi">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=tesi&theme=dark" />
+</a>
+
 
 <!--### Older projects 💻
 
