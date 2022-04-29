@@ -1,6 +1,5 @@
 ### Hi there 👋
 My name is Daniele Napolitano, and currently I'm studying computer engineering at the university of Modena and Reggio Emilia (Dipartimento di Ingegneria Enzo Ferrari, Unimore). <br>
-Feel free to look at my projects.
 
 ###  Contacts 📨
 * personal email: danielenapolitano00@gmail.com
@@ -14,7 +13,7 @@ It's still work in progress, it's about Augmented reality and IoT (using the CoA
 <a href="https://github.com/danielenapo/tesi">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=tesi&theme=dark" />
 </a>
-
+</p>
 
 <!--### Older projects 💻
 
