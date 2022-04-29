@@ -1,12 +1,13 @@
 ### Hi there 👋
-My name is Daniele Napolitano, and currently I'm studying computer engineering at the university of Modena and Reggio Emilia (Unimore). Feel free to look at my projects.
+My name is Daniele Napolitano, and currently I'm studying computer engineering at the university of Modena and Reggio Emilia (Dipartimento di Ingegneria Enzo Ferrari, Unimore). <br>
+Feel free to look at my projects.
 
 ###  Contacts 📨
 * personal email: danielenapolitano00@gmail.com
 * my portfolio [website](http://danielenapo.github.io/)
 
 ###  What I'm currently working on 🔭
-I'm developing my thesis project for my bachelor degree in Computer Engineering. 
+I'm developing my thesis project for my bachelor degree in Computer Engineering. <br>
 It's still work in progress, it's about Augmented reality and IoT (using the CoAP protocol), so there are other smaller repos on similar subjects that I've made to learn the basics.
 
 <p align="center">
