@@ -4,6 +4,7 @@ My name is Daniele Napolitano, and currently I'm studying computer engineering a
 ###  Contacts 📨
 * personal email: danielenapolitano00@gmail.com
 * my portfolio [website](http://danielenapo.github.io/)
+* Stack Overflow [profile](https://stackoverflow.com/users/18794029/danielenapo)
 
 ###  What I'm currently working on 🔭
 I'm developing my thesis project for my bachelor degree in Computer Engineering. <br>
