@@ -10,7 +10,7 @@ I'm developing my thesis project for my bachelor degree in Computer Engineering.
 It's about Augmented reality and IoT (using the CoAP protocol).
 <p align="center">
 <a href="https://github.com/danielenapo/AugmentedTwins">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=tesi&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=AugmentedTwins&theme=dark" />
 </a>
 </p>
 
