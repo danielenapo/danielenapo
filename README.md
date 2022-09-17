@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Daniele Napolitano, and currently I'm studying computer engineering at the university of Modena and Reggio Emilia (Dipartimento di Ingegneria Enzo Ferrari, Unimore). <br>
+My name is Daniele Napolitano, I'm currently studying for the master's degree in Artificial Intelligence Engineering at the university of Bologna. <br>
 
 ###  Contacts 📨
 * personal email: danielenapolitano00@gmail.com
