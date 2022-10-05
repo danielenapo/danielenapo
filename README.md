@@ -13,7 +13,7 @@ It's about Augmented reality and IoT (using the CoAP protocol).
 <a href="https://github.com/danielenapo/AugmentedTwins">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=AugmentedTwins&theme=dark" />
 </a><br>
- <img align="center" src="https://github.com/danielenapo/AugmentedTwins/blob/master/coffeeMachine.gif" />
+ <!--<img align="center" src="https://github.com/danielenapo/AugmentedTwins/blob/master/coffeeMachine.gif" />!-->
 
 </p>
 
