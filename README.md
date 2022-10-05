@@ -11,6 +11,7 @@ It's about Augmented reality and IoT (using the CoAP protocol).
 <p align="center">
 <a href="https://github.com/danielenapo/AugmentedTwins">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=AugmentedTwins&theme=dark" />
+ <img align="center" src="https://github.com/danielenapo/AugmentedTwins/coffeeMachine.gif" />
 </a>
 </p>
 
