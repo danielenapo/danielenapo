@@ -4,6 +4,7 @@ My name is Daniele Napolitano, I'm currently studying for the master's degree in
 ###  Contacts 📨
 * personal email: danielenapolitano00@gmail.com
 * my portfolio [website](http://danielenapo.github.io/)
+* [Linkedin](https://www.linkedin.com/in/daniele-napolitano-361a13239/)
 
 ###  What I'm currently working on 💻
 I'm developing my thesis project for my bachelor degree in Computer Engineering. <br>
