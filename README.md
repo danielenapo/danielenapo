@@ -9,7 +9,7 @@ My name is Daniele Napolitano, I'm currently studying for the master's degree in
 ### Recent projects 💻
 Thesis project for my bachelor degree in Computer Engineering. <br>
 It's about Augmented reality and IoT (using the CoAP protocol).
-<p align="center">!
+<p align="center">
 <a href="https://github.com/danielenapo/AugmentedTwins">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=AugmentedTwins&theme=dark" />
 </a><br>
