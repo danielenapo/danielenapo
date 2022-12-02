@@ -6,15 +6,13 @@ My name is Daniele Napolitano, I'm currently studying for the master's degree in
 * my portfolio [website](http://danielenapo.github.io/)
 * [Linkedin](https://www.linkedin.com/in/daniele-napolitano-361a13239/)
 
-### Recent projects 💻
-Thesis project for my bachelor degree in Computer Engineering. <br>
-It's about Augmented reality and IoT (using the CoAP protocol).
-<p align="center">
-<a href="https://github.com/danielenapo/AugmentedTwins">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=AugmentedTwins&theme=dark" />
-</a><br>
- <!--<img align="center" src="https://github.com/danielenapo/AugmentedTwins/blob/master/coffeeMachine.gif" />!-->
 
+### What I'm currently working on 🔭
+Estimate the probability that I could like a song, using Spotify's API data and Bayesian networks for making inference.
+<p align="center">
+ <a href="https://github.com/danielenapo/Bayesify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=Bayesify&theme=dark" />
+ </a>
 </p>
 
 
