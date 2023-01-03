@@ -1,6 +1,6 @@
 ### Hi there 👋
 I graduated in Computer Engineering in 2022 at Unimore, and I'm currently studying Artificial Intelligence (MEng) at the university of Bologna. <br>
-I'm passioned by Artificial Intelligence, IoT, AR and all kinds of other fun stuff (NLP, procedural generation, genetic algorithms, ...).
+I'm passioned by Artificial Intelligence, IoT, AR and all kinds of other fun stuff (NLP, swarm intelligence, genetic algorithms, ...).
 
 This is my <b>Bachelor's Thesis</b>:
 <p align="center">
