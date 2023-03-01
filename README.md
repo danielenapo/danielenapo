@@ -12,6 +12,8 @@ I'm passioned by Artificial Intelligence, IoT, AR and all kinds of other fun stu
 
 [![daneilenapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielenapo&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### What I'm currently working on 🔭
+<img src="https://github.com/danielenapo/Bayesify/blob/main/bayesify_logo.png" width=300>
+
 Estimate the probability that I could like a song, using Spotify's API data and Bayesian networks for making inference.<br>
 I'm making this project for a University course (<i>Fundamentals of Artificial Intelligence and Knowledge Representation</i>)
 
