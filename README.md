@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=2ED445&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Daniele+Napolitano;Computer+Engineer+and+M.Sc+AI+student)](https://git.io/typing-svg)
 
-I graduated in Computer Engineering in 2022 at Unimore, and I'm currently studying Artificial Intelligence (MEng) at the university of Bologna. <br>
+I graduated in Computer Engineering in 2022 at Unimore, and I'm currently studying for the Master in Artificial Intelligence at the university of Bologna. <br>
 I'm passioned by Artificial Intelligence, IoT, AR and all kinds of other fun stuff (NLP, swarm intelligence, genetic algorithms, ...).
 
 ###  Contacts 📨
