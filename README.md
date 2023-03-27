@@ -2,7 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielenapo&label=Profile%20views&color=0e75b6&style=flat" alt="danielenapo" /> </p>
 
 I graduated in Computer Engineering in 2022 at Unimore, and I'm currently studying for the Master in Artificial Intelligence at the university of Bologna. <br>
-I'm passioned by Artificial Intelligence, IoT, AR and all kinds of other fun stuff (NLP, swarm intelligence, genetic algorithms, ...).
+I'm passioned by all kinds of new technologies that are capable of helping people and to bring value.<br>
+Here's a messy gif showing some of the project you can find here:<br>
+<p align="center">
+<img src="projects.gif" />
+</p>
 
 ###  Contacts 📨
 * personal email: danielenapolitano00@gmail.com
