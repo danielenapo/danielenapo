@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=0&color=2ED445&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Daniele+Napolitano;Computer+Engineer+and+M.Sc+AI+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=0&color=2ED445&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=Hi+there+%F0%9F%91%8B;I'm+Daniele+Napolitano;Computer+Engineer+and+MSc+AI+student)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielenapo&label=Profile%20views&color=0e75b6&style=flat" alt="danielenapo" /> </p>
 
-I graduated in Computer Engineering in 2022 at Unimore, and I'm currently a master's student in Artificial Intelligence at the University of Bologna. <br>
+Graduated in Computer Engineering at Unimore, currently pursuing a master's degree in Artificial Intelligence at the University of Bologna. <br>
 I'm passioned by all kinds of new technologies that are capable of bringing value and helping people.<br>
+
 Here's a messy gif showing some of the project you can find here:<br>
 <p align="center">
 <img src="projects.gif" />
@@ -16,17 +17,4 @@ Here's a messy gif showing some of the project you can find here:<br>
 ### Stats 📈
 
 [![daneilenapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielenapo&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-### What I'm currently working on 🔭
-
-Estimate the probability that I could like a song, using Spotify's API data and Bayesian networks for making inference.<br>
-I'm making this project for a University course (<i>Fundamentals of Artificial Intelligence and Knowledge Representation</i>)
-
-<!--<p align="center">!-->
- <a href="https://github.com/danielenapo/Bayesify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danielenapo&repo=Bayesify&theme=dark" />
- </a>
-<!--</p>!-->
-
-
-
 
