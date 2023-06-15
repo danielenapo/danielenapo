@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielenapo&label=Profile%20views&color=0e75b6&style=flat" alt="danielenapo" /> </p>
 
 Graduated in Computer Engineering at Unimore, currently pursuing a master's degree in Artificial Intelligence at the University of Bologna. <br>
-I'm passioned by all kinds of new technologies that are capable of bringing value and helping people.<br>
+I'm passioned by all kinds of technologies capable of bringing value and helping people.<br>
 
-Here's a messy gif showing some of the project you can find here:<br>
+Here's a messy gif showing some of the projects you can find here:<br>
 <p align="center">
 <img src="projects.gif" />
 </p>
