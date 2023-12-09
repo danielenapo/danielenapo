@@ -8,9 +8,9 @@ I'm passioned by all kinds of technologies capable of bringing value and helping
 * my portfolio [website](http://danielenapo.github.io/)
 * [Linkedin](https://www.linkedin.com/in/daniele-napolitano-361a13239/)
 
-### Messy GIF of some of my projects  
+<!-- ### Messy GIF of some of my projects  
 <img src="projects.gif" />
-
+!-->
 
 ### Stats 📈
 
