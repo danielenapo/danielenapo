@@ -16,3 +16,4 @@ I'm passioned by all kinds of technologies capable of bringing value and helping
 
 [![daneilenapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielenapo&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
