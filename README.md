@@ -24,7 +24,7 @@ I'm passioned by all kinds of technologies capable of bringing value and helping
 <p  >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/danielenapo/danielenapo/output-3d-contrib/profile-night-view.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielenapo/danielenapo/output-3d-contrib/profile-day-view.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/danielenapo/danielenapo/output-3d-contrib/profile-day-view.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielenapo/danielenapo/output-3d-contrib/profile-green-animate.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/danielenapo/danielenapo/output-3d-contrib/profile-green-animate.svg" width="700" />
 	</picture>
 </p>
