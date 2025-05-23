@@ -20,7 +20,7 @@ Driven by a deep passion for innovative technologies that bring value and make a
 <!--[![daneilenapo's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielenapo&hide=contribs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielenapo&label=Profile%20views&color=0e75b6&style=flat" alt="danielenapo" /> </p>
 
-
+<!--
 <p  >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/danielenapo/danielenapo/output-3d-contrib/profile-night-view.svg" />
@@ -28,3 +28,4 @@ Driven by a deep passion for innovative technologies that bring value and make a
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/danielenapo/danielenapo/output-3d-contrib/profile-green-animate.svg" width="700" />
 	</picture>
 </p>
+--!>
